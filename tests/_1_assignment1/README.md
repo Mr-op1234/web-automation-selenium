@@ -1,14 +1,14 @@
-\# My Submission
+# My Submission
 
 
 
-\*\*Name:\*\* Unman Chaudhuri
+**Name:** Unman Chaudhuri
 
 \*\*Enrollment Number:\*\* 12023052002212
 
 
 
-\## Description
+## Description
 
 
 
@@ -28,3 +28,5 @@ And fifth, By.LINK\_TEXT. I located the footer link using its exact visible text
 
 In the script, I have also used an explicit wait to make the test stable, and I will print a confirmation message for each locator that is found successfully. Now, I will run the script and you will see the browser open, locate all five elements, fill in the credentials, and print the success messages in the console. Let's execute.
 
+##DEMO:
+https://drive.google.com/file/d/1d2J9393zJ0AJn8s8onXLLIfChfLwYMpc/view?usp=sharing
